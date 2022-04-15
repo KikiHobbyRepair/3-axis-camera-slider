@@ -1,5 +1,8 @@
 # 3-axis-camera-slider
 My newest DIY project is a 3 Axis motorised camera slicer. It is capable of handling smaller DSLR cameras and phones. It is portable because can be operated from a battery or alternatively from a DC power supply.
+
+Link to the Youtube video: https://www.youtube.com/watch?v=ZBGcE2LZntI
+
 I will also post a video later on about the full build process. I will put a link here as soon as it is published.
 
 Parts list:
@@ -25,8 +28,6 @@ Parts list:
 - Flange shaft coupler 2pcs (I have designed a 3D printed version too (STL available) but I prefer the metal here) https://www.amazon.de/gp/product/B0833PTFZM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 - etc
 
-
-Link to the Youtube video: https://www.youtube.com/watch?v=ZBGcE2LZntI
 
 Buy Me a Coffe. If you find my work useful and valuable you can support the channel on the following link: https://www.buymeacoffee.com/kikihobbyrepair
 ![3D file](https://user-images.githubusercontent.com/97908564/163592582-6ce1ebc2-fcec-434d-ba2d-916d4919de5e.jpg)
