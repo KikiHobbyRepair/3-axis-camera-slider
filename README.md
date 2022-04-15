@@ -29,5 +29,6 @@ Parts list:
 Link to the Youtube video: https://www.youtube.com/watch?v=ZBGcE2LZntI
 
 Buy Me a Coffe. If you find my work useful and valuable you can support the channel on the following link: https://www.buymeacoffee.com/kikihobbyrepair
+![3D file](https://user-images.githubusercontent.com/97908564/163592582-6ce1ebc2-fcec-434d-ba2d-916d4919de5e.jpg)
 
 ![DIY 3 Axis Motorized Camera Slider Thumbnail](https://user-images.githubusercontent.com/97908564/163589799-bb327885-27c0-4b72-8da6-6fcba28b7845.jpg)
